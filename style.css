@@ -1,0 +1,17 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 100px;
+    background-color: #16a54d89;
+    border: black 1px solid;
+    border-radius: 20px;
+    box-shadow: 0 4px 8px black;
+    margin-top: 50px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+body{
+    background-image: url(COOL1.jpeg);
+    background-size: contain
+}
